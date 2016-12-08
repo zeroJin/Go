@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.motif.evermarker.testcase.TestDaily" failures="0" tests="2" time="12.163" errors="0">
+  <properties/>
+  <testcase name="@BeforeTest login" time="0.0" classname="com.motif.evermarker.testcase.TestDaily">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;   商品管理&amp;gt; but was:&amp;lt;   商品管&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<   商品管理> but was:<   商品管>
+	at com.motif.evermarker.testcase.TestLogin.login(TestLogin.java:34)
+... Removed 24 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="testDaily" time="0.003" classname="com.motif.evermarker.testcase.TestDaily">
+    <skipped/>
+  </testcase>
+  <testcase name="addBanner" time="0.001" classname="com.motif.evermarker.testcase.TestDaily">
+    <skipped/>
+  </testcase>
+</testsuite>

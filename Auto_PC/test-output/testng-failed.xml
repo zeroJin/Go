@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [motif_PC]" junit="false" parallel="false" annotations="JDK" data-provider-thread-count="10">
+  <test name="com.motif.pc.testcase.daily.TopicDailyTest(failed)" junit="false" parallel="false" annotations="JDK">
+    <classes>
+      <class name="com.motif.pc.testcase.daily.TopicDailyTest">
+        <methods>
+          <include name="testClose"/>
+          <include name="login"/>
+          <include name="topicDailyTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

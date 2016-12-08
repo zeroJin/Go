@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.auto.pc.testcase.daily.TopicDailyTest" failures="0" tests="1" time="488.845" errors="0">
+  <properties/>
+  <testcase name="topicDailyTest" time="249.322" classname="com.auto.pc.testcase.daily.TopicDailyTest"/>
+</testsuite>

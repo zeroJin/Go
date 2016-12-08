@@ -1,0 +1,18 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Auto_PC" duration-ms="488845" started-at="2016-11-28T11:54:28Z" finished-at="2016-11-28T12:02:37Z">
+    <groups>
+    </groups>
+    <test name="com.auto.pc.testcase.daily.TopicDailyTest" duration-ms="488845" started-at="2016-11-28T11:54:28Z" finished-at="2016-11-28T12:02:37Z">
+      <class name="com.auto.pc.testcase.daily.TopicDailyTest">
+        <test-method status="PASS" signature="login()" name="login" is-config="true" duration-ms="236008" started-at="2016-11-28T11:54:28Z" finished-at="2016-11-28T11:58:24Z">
+        </test-method>
+        <test-method status="PASS" signature="topicDailyTest()" name="topicDailyTest" duration-ms="249322" started-at="2016-11-28T11:58:24Z" finished-at="2016-11-28T12:02:34Z">
+        </test-method>
+        <test-method status="PASS" signature="testClose()" name="testClose" is-config="true" duration-ms="3488" started-at="2016-11-28T12:02:34Z" finished-at="2016-11-28T12:02:37Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
